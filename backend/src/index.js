@@ -15,7 +15,7 @@ app.use(routes);
  */
 
  /**
-  * Métodos HTTP: n
+  * Métodos HTTP:
   * 
   * GET: Buscar alguma informação do back-end
   * POST: Criar uma informação no back-end  
